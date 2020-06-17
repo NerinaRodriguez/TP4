@@ -103,11 +103,6 @@ Integrantes:
 
 ; [Completar, ejercicio 3-3]
 
-(define
-  (confirmados-por-dpto l f)
-  ()
-  )
-
 ; [Completar, ejercicio 3-4]
 
 
